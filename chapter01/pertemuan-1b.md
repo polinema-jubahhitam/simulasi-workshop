@@ -20,7 +20,7 @@
 ## Buat Rumus
 1. Klik Insert, pilih Equation
 
-    [hasilsatu 4](images/1.4.png)
+    <img src="images/1.4.png">
 
 
 2. Terbuka menu Equation, pilih jenis rumus yang hendak dibuat (contoh: y = (a/b)+c)
@@ -28,22 +28,22 @@
     
     **y = (a/b) + c**
     
-    [hasilsatu 5](images/1.5.png)
+    <img src="images/1.5.png">
 
 3. Buat model untuk **y =** , ketikkan di bagian Type Equation here
 
-    [hasilsatu 6](images/1.6.png)
+    <img src="images/1.6.png">
 
 4. untuk **(a/b)**, buat komponen tersebut dengan menggunakan jenis rumus Fraction
 
-    [hasilsatu 7](images/1.7.png)
+    <img src="images/1.7.png">
 
     pilih jenis yang sesuai contoh:
 
-    [hasilsatu 8](images/1.8.png)
+    <img src="images/1.8.png">
 
-Isikan variabel a dan b sesuai posisi yang tepat
+    Isikan variabel a dan b sesuai posisi yang tepat
 
 5. untuk **+ c**, tambahkan secara manual
 
-[hasilsatu 9](images/1.9.png)
+    <img src="images/1.9.png">
