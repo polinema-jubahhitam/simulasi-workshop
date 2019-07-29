@@ -12,8 +12,17 @@ Ada 2 jenis list yang dapat digunakan yaitu
     Merupakan model penomoran tanpa melakukan pengurutan, biasanya
     menggunakan simbol-simbol khusus yang sifatnya non-alfanumerik.
 
-## Cara Membuat List
+## Cara Membuat Ordered List
 1. Buka microsoft office seperti tampilan di bawah ini
-<p align="center"><img src="images/chapter02-01`.png" alt="New Document"/></p>
 
-2. Pilih `Blank Document` - Klik tombol `Create` 
+<p align="center"><img src="images/chapter02-01.png" alt="New Document"/></p>
+
+2. Pilih `Blank Document` - Klik tombol `Create`
+3. Buat sebuah daftar seperti pada gambar di bawah ini
+
+<p align="center"><img src="images/chapter02-02.png" alt="Daftar Document"/></p>
+
+4. Pilih daftar yang akan dibuat list, selanjutnya pilih jenis list
+   sesuai dengan yang diblok merah
+5. Hasilnya dapat dilihat seperti di bawah ini
+<p align="center"><img src="images/chapter02-03.png" alt="Daftar Document"/></p>
