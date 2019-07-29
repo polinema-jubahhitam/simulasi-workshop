@@ -13,5 +13,7 @@ Ada 2 jenis list yang dapat digunakan yaitu
     menggunakan simbol-simbol khusus yang sifatnya non-alfanumerik.
 
 ## Cara Membuat List
-1. Buka microsoft office
-## Praktikum 
+1. Buka microsoft office seperti tampilan di bawah ini
+<p align="center"><img src="images/chapter02-01`.png" alt="New Document"/></p>
+
+2. Pilih `Blank Document` - Klik tombol `Create` 
