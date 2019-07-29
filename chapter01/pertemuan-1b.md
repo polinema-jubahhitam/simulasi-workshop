@@ -1,4 +1,4 @@
-# Langkah Praktik Pembuatan Rumus
+# Langkah Praktik Pembuatan Rumus Sederhana
 
 ## Langkah Awal 
 1. Buka aplikasi **Microsoft Word**
