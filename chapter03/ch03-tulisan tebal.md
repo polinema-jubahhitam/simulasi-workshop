@@ -6,3 +6,4 @@
 2. Ketikkan tulisan `halo` pada layar Word
 3. Blok tulisan tersebut, kemudian klik tombol `ctrl + b`
 4. Tampilkan hasil percobaan anda
+5. Bagaimana hasilnya?
